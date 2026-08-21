@@ -36,6 +36,12 @@
 I'm an enthusiastic Information Technology student with a passion for learning and problem-solving. My academic journey is equipping me with a solid foundation in technology and problem solving and I'm eager to delve deeper into the world of development,data science and beyond. I believe in the power of technology to transform lives and businesses. My curiosity drives me to explore the fascinating realm of data science, where I aim to harness the power of data to derive meaningful insights. Additionaly,my keen interest towards finance and strategical development makes me eager to learn,grow and contribute to innovative projects that make a positive impact.
 
 <h3 align="center">Git Stats</h3>
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=gkhan205&theme=dark&hide_border=true&include_all_commits=false&count_private=false)
+
+![](https://streak-stats.demolab.com/?user=gkhan205&theme=dark&hide_border=true)
+
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=gkhan205&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
 <div align="center">
  
