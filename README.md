@@ -50,36 +50,6 @@ I'm an enthusiastic Information Technology student with a passion for learning a
 
 <img src="https://github-readme-stats.vercel.app/api?username=dipa007&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" alt="Dipayan's GitHub stats">
 
-### Top Repositories
-<div align="center">
-  <table>
-    <tr>
-      <td>
-        <a href="https://github.com/Karnmayank07/HealMe">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Karnmayank07&repo=HealMe&theme=highcontrast&hide_border=true&border_radius=15" />
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/dipa007/portfolio">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=dipa007&repo=portfolio&theme=highcontrast&hide_border=true&border_radius=15" />
-        </a>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <a href="https://github.com/dipa007/ml_webapp">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=dipa007&repo=ml_webapp&theme=highcontrast&hide_border=true&border_radius=15" />
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/dipa007/qr_code_generator">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=dipa007&repo=qr_code_generator&theme=highcontrast&hide_border=true&border_radius=15" />
-        </a>
-      </td>
-    </tr>
-  </table>
-</div>
-
 </div>
 
 
