@@ -33,11 +33,11 @@ Currently, I am expanding my proficiency in **Typescript Ecosystem** to build sc
 <h2 align="center">📊 GitHub Analytics</h2>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dipa007&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="GitHub Stats">
+  <img src="https://github-readme-stats.shion.dev/api?username=dipa007&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false" alt="GitHub Stats">
   <br><br>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=dipa007&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
   <br><br>
-  <img height="137px" src="https://github-readme-stats.shion.dev/api/top-langs/?username=dipa007&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" />
+  <img height="137px" src="https://github-readme-stats.shion.dev/api/top-langs/?username=dipa007&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" />
   <br><br>
   <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=dipa007&bg_color=1a1b27&color=7aa2f7&line=7aa2f7&point=c0caf5&area=true&hide_border=true" alt="GitHub Activity Graph" />
