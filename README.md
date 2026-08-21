@@ -46,6 +46,55 @@ Currently, I am expanding my proficiency in **Typescript Ecosystem** to build sc
 
 <br>
 
+<h2 align="center">🛠️ Tech Stack</h2>
+
+<h3 align="center">Programming Languages</h3>
+<div align="center">
+  <table style="background-color: black; color: white; border: none; border-radius: 15px; overflow: hidden;">
+    <tbody>
+      <tr>
+        <td align="center" style="border: none;">
+          <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="C++" width="50" height="50"/><br>C++
+        </td>
+        <td align="center" style="border: none;">
+          <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="C++" width="50" height="50"/><br>Java
+        </td>
+        <td align="center" style="border: none;">
+          <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="50" height="50"/><br>Python
+        </td>
+        <td align="center" style="border: none;">
+          <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="50" height="50"/><br>JavaScript
+        </td>
+        <td align="center" style="border: none;">
+          <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="JavaScript" width="50" height="50"/><br>TypeScript
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+
+<h3 align="center">Backend & Database</h3>
+<div align="center">
+<table style="background-color: black; color: white; border: none; border-radius: 15px; overflow: hidden;">
+  <tbody>
+    <tr>
+      <td align="center" style="border: none;">
+        <img src="https://cdn.worldvectorlogo.com/logos/flask.svg" width="50" height="50" alt="Flask"/><br>Flask
+      </td>
+      <td align="center" style="border: none;">
+        <img src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg" width="50" height="50" alt="Node.js"/><br>Node.js
+      </td>
+      <td align="center" style="border: none;">
+        <img src="https://skillicons.dev/icons?i=express" width="50" height="50"/><br>Express
+      </td>
+      <td align="center" style="border: none;">
+        <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="50" height="50"/><br>MySQL
+      </td>
+    </tr>
+  </tbody>
+</table>
+</div>
+
 <h3 align="center">Data Science & Libraries</h3>
 <div align="center">
 <table style="background-color: black; color: white; border: none; border-radius: 15px; overflow: hidden;">
