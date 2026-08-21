@@ -79,7 +79,7 @@ Currently, I am expanding my proficiency in **Typescript Ecosystem** to build sc
   <tbody>
     <tr>
       <td align="center" style="border: none;">
-        <img src="https://cdn.worldvectorlogo.com/logos/flask.svg" width="50" height="50" alt="Flask"/><br>Flask
+        <img src="https://cdn.worldvectorlogo.com/logos/next-js.svg" width="50" height="50" alt="Flask"/><br>Next Js
       </td>
       <td align="center" style="border: none;">
         <img src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg" width="50" height="50" alt="Node.js"/><br>Node.js
@@ -88,9 +88,40 @@ Currently, I am expanding my proficiency in **Typescript Ecosystem** to build sc
         <img src="https://skillicons.dev/icons?i=express" width="50" height="50"/><br>Express
       </td>
       <td align="center" style="border: none;">
+        <img src="https://cdn.worldvectorlogo.com/logos/mongodb-icon-1.svg" width="50" height="50" alt="MongoDB"/><br>MongoDB
+      </td>
+      <td align="center" style="border: none;">
+        <img src="https://cdn.worldvectorlogo.com/logos/postgresql-inc.svg" width="50" height="50" alt="PostgreSQL"/><br>PostgreSQL
+      </td>
+      <td align="center" style="border: none;">
         <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="50" height="50"/><br>MySQL
       </td>
     </tr>
+  </tbody>
+</table>
+</div>
+
+<h3 align="center">Frontend Web Development</h3>
+<div align="center">
+<table style="background-color: black; color: white; border: none; border-radius: 15px; overflow: hidden;">
+  <tbody>
+    <tr>
+      <td align="center" style="border: none;">
+        <img src="https://cdn.worldvectorlogo.com/logos/html-1.svg" width="50" height="50" alt="HTML"/><br>HTML
+      </td>
+      <td align="center" style="border: none;">
+        <img src="https://cdn.worldvectorlogo.com/logos/tailwind-css-2.svg" width="50" height="50" alt="CSS"/><br>Tailwind
+      </td>
+      <td align="center" style="border: none;">
+        <img src="https://cdn.worldvectorlogo.com/logos/jquery-4.svg" width="50" height="50" alt="jQuery"/><br>jQuery
+      </td>
+      <td align="center" style="border: none;">
+        <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="MySQL" width="50" height="50"/><br>React
+      </td>
+      <td align="center" style="border: none;">
+        <img src="https://techstack-generator.vercel.app/redux-icon.svg" alt="MySQL" width="50" height="50"/><br>Redux
+      </td>
+     </tr>
   </tbody>
 </table>
 </div>
@@ -117,29 +148,7 @@ Currently, I am expanding my proficiency in **Typescript Ecosystem** to build sc
 </table>
 </div>
 
-<h3 align="center">Frontend Web Development</h3>
-<div align="center">
-<table style="background-color: black; color: white; border: none; border-radius: 15px; overflow: hidden;">
-  <tbody>
-    <tr>
-      <td align="center" style="border: none;">
-        <img src="https://cdn.worldvectorlogo.com/logos/html-1.svg" width="50" height="50" alt="HTML"/><br>HTML
-      </td>
-      <td align="center" style="border: none;">
-        <img src="https://cdn.worldvectorlogo.com/logos/css-3.svg" width="50" height="50" alt="CSS"/><br>CSS
-      </td>
-      <td align="center" style="border: none;">
-        <img src="https://cdn.worldvectorlogo.com/logos/tailwindcss.svg" width="50" height="50" alt="Tailwind CSS"/><br>Tailwind
-      </td>
-      <td align="center" style="border: none;">
-        <img src="https://cdn.worldvectorlogo.com/logos/jquery-4.svg" width="50" height="50" alt="jQuery"/><br>jQuery
-      </td>
-     </tr>
-  </tbody>
-</table>
-</div>
-
-<h3 align="center">Development Tools & AI</h3>
+<h3 align="center">Development Tools & Deployment</h3>
 <div align="center">
 <table style="background-color: black; color: white; border: none; border-radius: 15px; overflow: hidden;">
   <tbody>
@@ -155,6 +164,18 @@ Currently, I am expanding my proficiency in **Typescript Ecosystem** to build sc
       </td>
       <td align="center" style="border: none;">
         <img src="https://upload.wikimedia.org/wikipedia/commons/0/04/ChatGPT_logo.svg" width="50" height="50" alt="ChatGPT"/><br>ChatGPT
+      </td>
+       <td align="center" style="border: none;">
+        <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="MySQL" width="50" height="50"/><br>Redux
+      </td>
+       <td align="center" style="border: none;">
+        <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="MySQL" width="50" height="50"/><br>AWS
+      </td>
+       <td align="center" style="border: none;">
+        <img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="MySQL" width="50" height="50"/><br>Nginx
+      </td>
+       <td align="center" style="border: none;">
+        <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="MySQL" width="50" height="50"/><br>Github
       </td>
     </tr>
   </tbody>
